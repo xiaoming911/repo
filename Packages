@@ -9,7 +9,7 @@ Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, science.xnu.substitut
 Breaks: com.saurik.substrate.safemode (<<0.9.6004)
 Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate
 Provides: com.ex.libsubstitute, mobilesubstrate (= 0.9.7033+dummy)
-Filename: /mnt/data/repo/pool/main/com.ex.substitute_2.3.2+2.g3e9b535_iphoneos-arm.deb
+Filename: https://github.com/xiaoming911/repo/raw/main/pool/main/com.ex.substitute_2.3.2+2.g3e9b535_iphoneos-arm.deb
 Size: 7419452
 MD5sum: 63b5d0bded3a301fd099662d7ef5f470
 SHA1: 371d6731d8743d0d1deeefcd991f3408512d06a5
@@ -28,7 +28,7 @@ Installed-Size: 144
 Depends: mobilesubstrate (>= 0.9.3367+38)
 Conflicts: safe-mode-fixer-ios7
 Replaces: safe-mode-fixer-ios7
-Filename: /mnt/data/repo/pool/main/com.saurik.substrate.safemode_0.9.6005_iphoneos-arm.deb
+Filename: https://github.com/xiaoming911/repo/raw/main/pool/main/com.saurik.substrate.safemode_0.9.6005_iphoneos-arm.deb
 Size: 22736
 MD5sum: 73e56c9f8209fc56c8852bfcfd5b23d7
 SHA1: 8bb7866945dac32ad68648ebf38ca343fa715b7d
