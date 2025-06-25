@@ -1,0 +1,8 @@
+Origin: xiaoming
+Label: xiaoming Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: A simple Sileo repo by xiaoming
